@@ -1,0 +1,41 @@
+body{
+    background-color: #ffe5ec;
+}
+
+.menu{
+    background-color: #ffb3c6;
+    height: 200px;
+    width: 100%;
+}
+
+.principal{
+    background-color: #fb6f92;
+    height: 300px;
+    width: 100%;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.principal h1{
+    font-family: 'Under Script', sans-serif;
+    font-size: 80px;      
+    color: rgb(255, 255, 255);
+}
+.rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding:30px;
+}
+.tabela{
+    height: 150px;
+    width: 500px;
+    background-color: #ffb3c6;
+}
+.formulario{
+    height: 300px;
+    width:500px;
+    background-color: hsl(345, 100%, 67%);
+}
